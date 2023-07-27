@@ -17,6 +17,8 @@ import java.awt.*;
 
 public class Window {
     /* Color constants */
+	
+	// COMENTARIO DE MARÍA
 
     public static final Color SECONDARY_FOREGROUND = new Color(80, 80, 80, 240);
     public static final Color TERTIARY_FOREGROUND = new Color(20, 20, 20, 150);
